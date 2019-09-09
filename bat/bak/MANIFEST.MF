@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.gfsm.App
+Class-Path: lib/easyexcel-1.1.2-beta5.jar lib/poi-3.17.jar lib/poi-ooxml-3.17.jar lib/poi-ooxml-schemas-3.17.jar lib/xmlbeans-2.6.0.jar
+
+
